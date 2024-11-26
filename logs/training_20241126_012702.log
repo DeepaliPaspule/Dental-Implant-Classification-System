@@ -1,0 +1,357 @@
+2024-11-26 01:27:02,943 - INFO - Starting training pipeline
+2024-11-26 01:27:02,972 - INFO - Found 1801 images for category endosteal
+2024-11-26 01:27:02,980 - INFO - Found 469 images for category subperiosteal
+2024-11-26 01:27:02,990 - INFO - Found 644 images for category transosteal
+2024-11-26 01:27:03,017 - INFO - Found 1702 images for category zygomatic
+2024-11-26 01:27:15,743 - INFO - 
+Epoch 1/20
+2024-11-26 01:27:29,186 - INFO - Epoch: 1, Batch: 0, Loss: 0.361504
+2024-11-26 01:28:37,236 - INFO - Epoch: 1, Batch: 10, Loss: 0.032175
+2024-11-26 01:29:42,589 - INFO - Epoch: 1, Batch: 20, Loss: 0.021948
+2024-11-26 01:30:48,413 - INFO - Epoch: 1, Batch: 30, Loss: 0.020018
+2024-11-26 01:31:53,346 - INFO - Epoch: 1, Batch: 40, Loss: 0.013568
+2024-11-26 01:32:58,353 - INFO - Epoch: 1, Batch: 50, Loss: 0.016812
+2024-11-26 01:34:04,373 - INFO - Epoch: 1, Batch: 60, Loss: 0.015540
+2024-11-26 01:35:10,907 - INFO - Epoch: 1, Batch: 70, Loss: 0.015844
+2024-11-26 01:36:15,926 - INFO - Epoch: 1, Batch: 80, Loss: 0.014265
+2024-11-26 01:37:21,862 - INFO - Epoch: 1, Batch: 90, Loss: 0.011252
+2024-11-26 01:38:27,569 - INFO - Epoch: 1, Batch: 100, Loss: 0.015687
+2024-11-26 01:39:31,902 - INFO - Epoch: 1, Batch: 110, Loss: 0.011218
+2024-11-26 01:40:17,574 - INFO - Epoch 1 - Average Training Loss: 0.023852
+2024-11-26 01:41:54,747 - INFO - Validation Loss: 0.007304
+2024-11-26 01:41:56,017 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 01:41:56,017 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_1.pth
+2024-11-26 01:41:56,017 - INFO - 
+Epoch 2/20
+2024-11-26 01:42:08,571 - INFO - Epoch: 2, Batch: 0, Loss: 0.015766
+2024-11-26 01:43:13,282 - INFO - Epoch: 2, Batch: 10, Loss: 0.011891
+2024-11-26 01:44:18,390 - INFO - Epoch: 2, Batch: 20, Loss: 0.012989
+2024-11-26 01:45:24,164 - INFO - Epoch: 2, Batch: 30, Loss: 0.013272
+2024-11-26 01:46:28,960 - INFO - Epoch: 2, Batch: 40, Loss: 0.009850
+2024-11-26 01:47:33,735 - INFO - Epoch: 2, Batch: 50, Loss: 0.011204
+2024-11-26 01:48:39,293 - INFO - Epoch: 2, Batch: 60, Loss: 0.010460
+2024-11-26 01:49:44,497 - INFO - Epoch: 2, Batch: 70, Loss: 0.015064
+2024-11-26 01:50:50,975 - INFO - Epoch: 2, Batch: 80, Loss: 0.013190
+2024-11-26 01:51:57,032 - INFO - Epoch: 2, Batch: 90, Loss: 0.012937
+2024-11-26 01:53:02,968 - INFO - Epoch: 2, Batch: 100, Loss: 0.011010
+2024-11-26 01:54:06,743 - INFO - Epoch: 2, Batch: 110, Loss: 0.010451
+2024-11-26 01:55:37,155 - INFO - Epoch 2 - Average Training Loss: 0.011946
+2024-11-26 01:57:14,773 - INFO - Validation Loss: 0.006671
+2024-11-26 01:57:15,628 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 01:57:15,628 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_2.pth
+2024-11-26 01:57:15,628 - INFO - 
+Epoch 3/20
+2024-11-26 01:57:28,702 - INFO - Epoch: 3, Batch: 0, Loss: 0.010019
+2024-11-26 01:58:33,435 - INFO - Epoch: 3, Batch: 10, Loss: 0.014093
+2024-11-26 01:59:37,464 - INFO - Epoch: 3, Batch: 20, Loss: 0.011175
+2024-11-26 02:00:41,994 - INFO - Epoch: 3, Batch: 30, Loss: 0.012142
+2024-11-26 02:01:47,221 - INFO - Epoch: 3, Batch: 40, Loss: 0.015297
+2024-11-26 02:02:52,803 - INFO - Epoch: 3, Batch: 50, Loss: 0.012250
+2024-11-26 02:03:58,712 - INFO - Epoch: 3, Batch: 60, Loss: 0.008692
+2024-11-26 02:05:04,275 - INFO - Epoch: 3, Batch: 70, Loss: 0.009406
+2024-11-26 02:06:11,116 - INFO - Epoch: 3, Batch: 80, Loss: 0.010370
+2024-11-26 02:07:17,068 - INFO - Epoch: 3, Batch: 90, Loss: 0.008332
+2024-11-26 02:08:23,036 - INFO - Epoch: 3, Batch: 100, Loss: 0.009033
+2024-11-26 02:09:27,533 - INFO - Epoch: 3, Batch: 110, Loss: 0.007092
+2024-11-26 02:10:12,816 - INFO - Epoch 3 - Average Training Loss: 0.010011
+2024-11-26 02:11:49,956 - INFO - Validation Loss: 0.006041
+2024-11-26 02:11:51,021 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 02:11:51,021 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_3.pth
+2024-11-26 02:11:51,021 - INFO - 
+Epoch 4/20
+2024-11-26 02:12:03,882 - INFO - Epoch: 4, Batch: 0, Loss: 0.010330
+2024-11-26 02:13:08,503 - INFO - Epoch: 4, Batch: 10, Loss: 0.007876
+2024-11-26 02:14:13,454 - INFO - Epoch: 4, Batch: 20, Loss: 0.008099
+2024-11-26 02:15:18,751 - INFO - Epoch: 4, Batch: 30, Loss: 0.006948
+2024-11-26 02:16:24,734 - INFO - Epoch: 4, Batch: 40, Loss: 0.006040
+2024-11-26 02:17:29,404 - INFO - Epoch: 4, Batch: 50, Loss: 0.007064
+2024-11-26 02:18:35,905 - INFO - Epoch: 4, Batch: 60, Loss: 0.009098
+2024-11-26 02:19:41,147 - INFO - Epoch: 4, Batch: 70, Loss: 0.008929
+2024-11-26 02:20:47,756 - INFO - Epoch: 4, Batch: 80, Loss: 0.006474
+2024-11-26 02:21:54,273 - INFO - Epoch: 4, Batch: 90, Loss: 0.008942
+2024-11-26 02:23:00,258 - INFO - Epoch: 4, Batch: 100, Loss: 0.006603
+2024-11-26 02:24:05,125 - INFO - Epoch: 4, Batch: 110, Loss: 0.004880
+2024-11-26 02:24:50,983 - INFO - Epoch 4 - Average Training Loss: 0.007609
+2024-11-26 02:26:27,974 - INFO - Validation Loss: 0.002351
+2024-11-26 02:26:28,765 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 02:26:28,765 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_4.pth
+2024-11-26 02:26:28,765 - INFO - 
+Epoch 5/20
+2024-11-26 02:26:41,648 - INFO - Epoch: 5, Batch: 0, Loss: 0.005952
+2024-11-26 02:27:48,169 - INFO - Epoch: 5, Batch: 10, Loss: 0.004348
+2024-11-26 02:28:54,534 - INFO - Epoch: 5, Batch: 20, Loss: 0.006504
+2024-11-26 02:30:00,091 - INFO - Epoch: 5, Batch: 30, Loss: 0.006286
+2024-11-26 02:31:05,407 - INFO - Epoch: 5, Batch: 40, Loss: 0.006059
+2024-11-26 02:32:12,551 - INFO - Epoch: 5, Batch: 50, Loss: 0.005513
+2024-11-26 02:33:18,623 - INFO - Epoch: 5, Batch: 60, Loss: 0.007177
+2024-11-26 02:34:24,363 - INFO - Epoch: 5, Batch: 70, Loss: 0.007664
+2024-11-26 02:35:29,963 - INFO - Epoch: 5, Batch: 80, Loss: 0.006922
+2024-11-26 02:36:35,265 - INFO - Epoch: 5, Batch: 90, Loss: 0.005575
+2024-11-26 02:37:41,630 - INFO - Epoch: 5, Batch: 100, Loss: 0.005600
+2024-11-26 02:53:55,448 - INFO - Epoch: 5, Batch: 110, Loss: 0.009709
+2024-11-26 02:54:42,954 - INFO - Epoch 5 - Average Training Loss: 0.006433
+2024-11-26 02:56:23,683 - INFO - Validation Loss: 0.001390
+2024-11-26 02:56:24,667 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 02:56:24,667 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_5.pth
+2024-11-26 02:56:24,667 - INFO - 
+Epoch 6/20
+2024-11-26 02:56:40,472 - INFO - Epoch: 6, Batch: 0, Loss: 0.010082
+2024-11-26 02:57:58,485 - INFO - Epoch: 6, Batch: 10, Loss: 0.006587
+2024-11-26 02:59:18,528 - INFO - Epoch: 6, Batch: 20, Loss: 0.005008
+2024-11-26 03:00:39,693 - INFO - Epoch: 6, Batch: 30, Loss: 0.004177
+2024-11-26 03:01:58,947 - INFO - Epoch: 6, Batch: 40, Loss: 0.005905
+2024-11-26 03:03:19,271 - INFO - Epoch: 6, Batch: 50, Loss: 0.005465
+2024-11-26 03:04:36,863 - INFO - Epoch: 6, Batch: 60, Loss: 0.005610
+2024-11-26 03:05:56,187 - INFO - Epoch: 6, Batch: 70, Loss: 0.005234
+2024-11-26 03:07:15,133 - INFO - Epoch: 6, Batch: 80, Loss: 0.003935
+2024-11-26 03:08:35,340 - INFO - Epoch: 6, Batch: 90, Loss: 0.005435
+2024-11-26 03:09:54,394 - INFO - Epoch: 6, Batch: 100, Loss: 0.004579
+2024-11-26 03:11:12,660 - INFO - Epoch: 6, Batch: 110, Loss: 0.006191
+2024-11-26 03:12:04,166 - INFO - Epoch 6 - Average Training Loss: 0.005291
+2024-11-26 03:13:51,927 - INFO - Validation Loss: 0.002420
+2024-11-26 03:13:52,386 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_6.pth
+2024-11-26 03:13:52,386 - INFO - 
+Epoch 7/20
+2024-11-26 03:14:07,542 - INFO - Epoch: 7, Batch: 0, Loss: 0.004405
+2024-11-26 03:15:26,990 - INFO - Epoch: 7, Batch: 10, Loss: 0.012407
+2024-11-26 03:16:46,053 - INFO - Epoch: 7, Batch: 20, Loss: 0.004984
+2024-11-26 03:18:00,821 - INFO - Epoch: 7, Batch: 30, Loss: 0.008227
+2024-11-26 03:19:04,324 - INFO - Epoch: 7, Batch: 40, Loss: 0.004381
+2024-11-26 03:20:07,702 - INFO - Epoch: 7, Batch: 50, Loss: 0.007869
+2024-11-26 03:21:16,280 - INFO - Epoch: 7, Batch: 60, Loss: 0.005553
+2024-11-26 03:22:26,605 - INFO - Epoch: 7, Batch: 70, Loss: 0.004823
+2024-11-26 03:23:36,041 - INFO - Epoch: 7, Batch: 80, Loss: 0.005822
+2024-11-26 03:24:46,944 - INFO - Epoch: 7, Batch: 90, Loss: 0.003670
+2024-11-26 03:25:56,105 - INFO - Epoch: 7, Batch: 100, Loss: 0.004118
+2024-11-26 03:27:05,089 - INFO - Epoch: 7, Batch: 110, Loss: 0.003842
+2024-11-26 03:27:52,154 - INFO - Epoch 7 - Average Training Loss: 0.004949
+2024-11-26 03:29:34,147 - INFO - Validation Loss: 0.001398
+2024-11-26 03:29:34,949 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_7.pth
+2024-11-26 03:29:34,949 - INFO - 
+Epoch 8/20
+2024-11-26 03:29:48,914 - INFO - Epoch: 8, Batch: 0, Loss: 0.003075
+2024-11-26 03:30:58,000 - INFO - Epoch: 8, Batch: 10, Loss: 0.004267
+2024-11-26 03:32:08,793 - INFO - Epoch: 8, Batch: 20, Loss: 0.004833
+2024-11-26 03:33:18,541 - INFO - Epoch: 8, Batch: 30, Loss: 0.004564
+2024-11-26 03:34:29,972 - INFO - Epoch: 8, Batch: 40, Loss: 0.003809
+2024-11-26 03:35:40,194 - INFO - Epoch: 8, Batch: 50, Loss: 0.002349
+2024-11-26 03:36:52,441 - INFO - Epoch: 8, Batch: 60, Loss: 0.004918
+2024-11-26 03:38:01,757 - INFO - Epoch: 8, Batch: 70, Loss: 0.004288
+2024-11-26 03:39:09,758 - INFO - Epoch: 8, Batch: 80, Loss: 0.002992
+2024-11-26 03:40:17,880 - INFO - Epoch: 8, Batch: 90, Loss: 0.003280
+2024-11-26 03:41:28,184 - INFO - Epoch: 8, Batch: 100, Loss: 0.003428
+2024-11-26 03:42:37,286 - INFO - Epoch: 8, Batch: 110, Loss: 0.003767
+2024-11-26 03:43:25,537 - INFO - Epoch 8 - Average Training Loss: 0.004271
+2024-11-26 03:45:06,734 - INFO - Validation Loss: 0.001930
+2024-11-26 03:45:07,713 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_8.pth
+2024-11-26 03:45:07,714 - INFO - 
+Epoch 9/20
+2024-11-26 03:45:21,279 - INFO - Epoch: 9, Batch: 0, Loss: 0.003596
+2024-11-26 03:46:30,673 - INFO - Epoch: 9, Batch: 10, Loss: 0.003882
+2024-11-26 03:47:39,753 - INFO - Epoch: 9, Batch: 20, Loss: 0.002940
+2024-11-26 03:48:46,964 - INFO - Epoch: 9, Batch: 30, Loss: 0.002675
+2024-11-26 03:49:55,170 - INFO - Epoch: 9, Batch: 40, Loss: 0.007274
+2024-11-26 03:51:03,539 - INFO - Epoch: 9, Batch: 50, Loss: 0.002607
+2024-11-26 03:52:15,901 - INFO - Epoch: 9, Batch: 60, Loss: 0.002046
+2024-11-26 03:53:25,691 - INFO - Epoch: 9, Batch: 70, Loss: 0.003434
+2024-11-26 03:54:32,751 - INFO - Epoch: 9, Batch: 80, Loss: 0.004260
+2024-11-26 03:55:38,755 - INFO - Epoch: 9, Batch: 90, Loss: 0.002982
+2024-11-26 03:56:44,416 - INFO - Epoch: 9, Batch: 100, Loss: 0.003587
+2024-11-26 03:57:48,943 - INFO - Epoch: 9, Batch: 110, Loss: 0.002518
+2024-11-26 03:58:34,188 - INFO - Epoch 9 - Average Training Loss: 0.004040
+2024-11-26 04:00:10,623 - INFO - Validation Loss: 0.001252
+2024-11-26 04:00:11,965 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 04:00:11,965 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_9.pth
+2024-11-26 04:00:11,965 - INFO - 
+Epoch 10/20
+2024-11-26 04:00:24,957 - INFO - Epoch: 10, Batch: 0, Loss: 0.003399
+2024-11-26 04:01:29,506 - INFO - Epoch: 10, Batch: 10, Loss: 0.003221
+2024-11-26 04:02:33,917 - INFO - Epoch: 10, Batch: 20, Loss: 0.003430
+2024-11-26 04:03:38,542 - INFO - Epoch: 10, Batch: 30, Loss: 0.003310
+2024-11-26 04:04:44,420 - INFO - Epoch: 10, Batch: 40, Loss: 0.003540
+2024-11-26 04:05:49,751 - INFO - Epoch: 10, Batch: 50, Loss: 0.002540
+2024-11-26 04:06:55,407 - INFO - Epoch: 10, Batch: 60, Loss: 0.004625
+2024-11-26 04:08:00,499 - INFO - Epoch: 10, Batch: 70, Loss: 0.006055
+2024-11-26 04:09:05,626 - INFO - Epoch: 10, Batch: 80, Loss: 0.003882
+2024-11-26 04:10:10,356 - INFO - Epoch: 10, Batch: 90, Loss: 0.004464
+2024-11-26 04:11:14,509 - INFO - Epoch: 10, Batch: 100, Loss: 0.002973
+2024-11-26 04:12:17,206 - INFO - Epoch: 10, Batch: 110, Loss: 0.003058
+2024-11-26 04:13:02,264 - INFO - Epoch 10 - Average Training Loss: 0.003754
+2024-11-26 04:14:38,600 - INFO - Validation Loss: 0.000896
+2024-11-26 04:14:39,672 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 04:14:39,672 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_10.pth
+2024-11-26 04:14:39,672 - INFO - 
+Epoch 11/20
+2024-11-26 04:14:52,672 - INFO - Epoch: 11, Batch: 0, Loss: 0.003420
+2024-11-26 04:15:56,589 - INFO - Epoch: 11, Batch: 10, Loss: 0.003815
+2024-11-26 04:17:02,084 - INFO - Epoch: 11, Batch: 20, Loss: 0.003178
+2024-11-26 04:18:08,507 - INFO - Epoch: 11, Batch: 30, Loss: 0.004091
+2024-11-26 04:19:12,789 - INFO - Epoch: 11, Batch: 40, Loss: 0.003169
+2024-11-26 04:20:18,692 - INFO - Epoch: 11, Batch: 50, Loss: 0.002615
+2024-11-26 04:21:24,314 - INFO - Epoch: 11, Batch: 60, Loss: 0.002504
+2024-11-26 04:22:29,475 - INFO - Epoch: 11, Batch: 70, Loss: 0.003884
+2024-11-26 04:23:36,684 - INFO - Epoch: 11, Batch: 80, Loss: 0.002768
+2024-11-26 04:24:45,478 - INFO - Epoch: 11, Batch: 90, Loss: 0.002501
+2024-11-26 04:25:49,645 - INFO - Epoch: 11, Batch: 100, Loss: 0.003460
+2024-11-26 04:26:51,128 - INFO - Epoch: 11, Batch: 110, Loss: 0.002207
+2024-11-26 04:27:36,255 - INFO - Epoch 11 - Average Training Loss: 0.003477
+2024-11-26 04:29:13,106 - INFO - Validation Loss: 0.000935
+2024-11-26 04:29:13,663 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_11.pth
+2024-11-26 04:29:13,663 - INFO - 
+Epoch 12/20
+2024-11-26 04:29:26,285 - INFO - Epoch: 12, Batch: 0, Loss: 0.002799
+2024-11-26 04:30:30,250 - INFO - Epoch: 12, Batch: 10, Loss: 0.002403
+2024-11-26 04:31:34,016 - INFO - Epoch: 12, Batch: 20, Loss: 0.007056
+2024-11-26 04:32:37,933 - INFO - Epoch: 12, Batch: 30, Loss: 0.002472
+2024-11-26 04:33:42,095 - INFO - Epoch: 12, Batch: 40, Loss: 0.002772
+2024-11-26 04:34:46,892 - INFO - Epoch: 12, Batch: 50, Loss: 0.003013
+2024-11-26 04:35:51,632 - INFO - Epoch: 12, Batch: 60, Loss: 0.002997
+2024-11-26 04:36:56,473 - INFO - Epoch: 12, Batch: 70, Loss: 0.001965
+2024-11-26 04:38:01,590 - INFO - Epoch: 12, Batch: 80, Loss: 0.002240
+2024-11-26 04:39:06,375 - INFO - Epoch: 12, Batch: 90, Loss: 0.003849
+2024-11-26 04:40:11,091 - INFO - Epoch: 12, Batch: 100, Loss: 0.003439
+2024-11-26 04:41:13,780 - INFO - Epoch: 12, Batch: 110, Loss: 0.002945
+2024-11-26 04:46:27,593 - INFO - Epoch 12 - Average Training Loss: 0.003285
+2024-11-26 04:48:17,383 - INFO - Validation Loss: 0.000788
+2024-11-26 04:48:18,429 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 04:48:18,429 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_12.pth
+2024-11-26 04:48:18,429 - INFO - 
+Epoch 13/20
+2024-11-26 04:48:31,347 - INFO - Epoch: 13, Batch: 0, Loss: 0.005136
+2024-11-26 04:51:45,700 - INFO - Epoch: 13, Batch: 10, Loss: 0.002795
+2024-11-26 04:57:05,248 - INFO - Epoch: 13, Batch: 20, Loss: 0.003848
+2024-11-26 05:25:19,306 - INFO - Epoch: 13, Batch: 30, Loss: 0.001732
+2024-11-26 05:43:30,660 - INFO - Epoch: 13, Batch: 40, Loss: 0.003811
+2024-11-26 05:44:42,088 - INFO - Epoch: 13, Batch: 50, Loss: 0.002939
+2024-11-26 05:45:59,367 - INFO - Epoch: 13, Batch: 60, Loss: 0.002312
+2024-11-26 06:11:16,891 - INFO - Epoch: 13, Batch: 70, Loss: 0.002647
+2024-11-26 06:12:22,265 - INFO - Epoch: 13, Batch: 80, Loss: 0.002246
+2024-11-26 06:13:27,085 - INFO - Epoch: 13, Batch: 90, Loss: 0.002447
+2024-11-26 06:14:31,675 - INFO - Epoch: 13, Batch: 100, Loss: 0.005734
+2024-11-26 06:15:34,601 - INFO - Epoch: 13, Batch: 110, Loss: 0.001992
+2024-11-26 06:16:19,781 - INFO - Epoch 13 - Average Training Loss: 0.003221
+2024-11-26 06:17:56,711 - INFO - Validation Loss: 0.000874
+2024-11-26 06:17:57,226 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_13.pth
+2024-11-26 06:17:57,226 - INFO - 
+Epoch 14/20
+2024-11-26 06:18:10,220 - INFO - Epoch: 14, Batch: 0, Loss: 0.002406
+2024-11-26 06:19:14,828 - INFO - Epoch: 14, Batch: 10, Loss: 0.002025
+2024-11-26 06:20:19,499 - INFO - Epoch: 14, Batch: 20, Loss: 0.002856
+2024-11-26 06:29:48,591 - INFO - Epoch: 14, Batch: 30, Loss: 0.002395
+2024-11-26 06:46:45,761 - INFO - Epoch: 14, Batch: 40, Loss: 0.002894
+2024-11-26 07:03:44,941 - INFO - Epoch: 14, Batch: 50, Loss: 0.002205
+2024-11-26 07:04:57,073 - INFO - Epoch: 14, Batch: 60, Loss: 0.002701
+2024-11-26 07:06:14,347 - INFO - Epoch: 14, Batch: 70, Loss: 0.002503
+2024-11-26 07:07:33,136 - INFO - Epoch: 14, Batch: 80, Loss: 0.002088
+2024-11-26 07:08:52,735 - INFO - Epoch: 14, Batch: 90, Loss: 0.002442
+2024-11-26 07:10:13,381 - INFO - Epoch: 14, Batch: 100, Loss: 0.002180
+2024-11-26 07:11:32,897 - INFO - Epoch: 14, Batch: 110, Loss: 0.001969
+2024-11-26 07:12:24,582 - INFO - Epoch 14 - Average Training Loss: 0.002952
+2024-11-26 07:14:15,874 - INFO - Validation Loss: 0.001441
+2024-11-26 07:14:16,325 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_14.pth
+2024-11-26 07:14:16,325 - INFO - 
+Epoch 15/20
+2024-11-26 07:14:29,324 - INFO - Epoch: 15, Batch: 0, Loss: 0.002009
+2024-11-26 07:15:49,852 - INFO - Epoch: 15, Batch: 10, Loss: 0.003544
+2024-11-26 07:17:12,123 - INFO - Epoch: 15, Batch: 20, Loss: 0.002536
+2024-11-26 07:18:35,162 - INFO - Epoch: 15, Batch: 30, Loss: 0.001779
+2024-11-26 07:20:00,799 - INFO - Epoch: 15, Batch: 40, Loss: 0.001779
+2024-11-26 07:21:27,447 - INFO - Epoch: 15, Batch: 50, Loss: 0.002573
+2024-11-26 07:22:51,600 - INFO - Epoch: 15, Batch: 60, Loss: 0.002072
+2024-11-26 07:24:15,863 - INFO - Epoch: 15, Batch: 70, Loss: 0.003510
+2024-11-26 07:25:39,440 - INFO - Epoch: 15, Batch: 80, Loss: 0.002420
+2024-11-26 07:27:03,180 - INFO - Epoch: 15, Batch: 90, Loss: 0.002037
+2024-11-26 07:28:27,260 - INFO - Epoch: 15, Batch: 100, Loss: 0.008847
+2024-11-26 07:29:49,628 - INFO - Epoch: 15, Batch: 110, Loss: 0.002293
+2024-11-26 07:30:42,793 - INFO - Epoch 15 - Average Training Loss: 0.002816
+2024-11-26 07:32:36,442 - INFO - Validation Loss: 0.000898
+2024-11-26 07:32:36,930 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_15.pth
+2024-11-26 07:32:36,930 - INFO - 
+Epoch 16/20
+2024-11-26 07:32:49,721 - INFO - Epoch: 16, Batch: 0, Loss: 0.002543
+2024-11-26 07:34:12,662 - INFO - Epoch: 16, Batch: 10, Loss: 0.001885
+2024-11-26 07:35:37,067 - INFO - Epoch: 16, Batch: 20, Loss: 0.002327
+2024-11-26 07:37:01,658 - INFO - Epoch: 16, Batch: 30, Loss: 0.002178
+2024-11-26 07:38:26,086 - INFO - Epoch: 16, Batch: 40, Loss: 0.001520
+2024-11-26 07:39:50,745 - INFO - Epoch: 16, Batch: 50, Loss: 0.002226
+2024-11-26 07:41:15,543 - INFO - Epoch: 16, Batch: 60, Loss: 0.005271
+2024-11-26 07:42:40,138 - INFO - Epoch: 16, Batch: 70, Loss: 0.002576
+2024-11-26 07:44:05,616 - INFO - Epoch: 16, Batch: 80, Loss: 0.001815
+2024-11-26 07:45:30,759 - INFO - Epoch: 16, Batch: 90, Loss: 0.003133
+2024-11-26 07:46:55,811 - INFO - Epoch: 16, Batch: 100, Loss: 0.002777
+2024-11-26 07:48:18,851 - INFO - Epoch: 16, Batch: 110, Loss: 0.002684
+2024-11-26 08:05:51,024 - INFO - Epoch 16 - Average Training Loss: 0.002621
+2024-11-26 08:07:29,994 - INFO - Validation Loss: 0.000730
+2024-11-26 08:07:31,193 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 08:07:31,193 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_16.pth
+2024-11-26 08:07:31,194 - INFO - 
+Epoch 17/20
+2024-11-26 08:07:44,343 - INFO - Epoch: 17, Batch: 0, Loss: 0.002338
+2024-11-26 08:17:19,775 - INFO - Epoch: 17, Batch: 10, Loss: 0.001462
+2024-11-26 08:18:32,210 - INFO - Epoch: 17, Batch: 20, Loss: 0.001635
+2024-11-26 08:25:10,932 - INFO - Epoch: 17, Batch: 30, Loss: 0.005236
+2024-11-26 08:26:15,442 - INFO - Epoch: 17, Batch: 40, Loss: 0.002948
+2024-11-26 08:27:19,825 - INFO - Epoch: 17, Batch: 50, Loss: 0.001850
+2024-11-26 08:28:24,719 - INFO - Epoch: 17, Batch: 60, Loss: 0.005034
+2024-11-26 08:29:29,704 - INFO - Epoch: 17, Batch: 70, Loss: 0.002317
+2024-11-26 08:30:34,274 - INFO - Epoch: 17, Batch: 80, Loss: 0.001205
+2024-11-26 08:31:38,962 - INFO - Epoch: 17, Batch: 90, Loss: 0.001926
+2024-11-26 08:32:43,624 - INFO - Epoch: 17, Batch: 100, Loss: 0.002615
+2024-11-26 08:33:46,520 - INFO - Epoch: 17, Batch: 110, Loss: 0.001926
+2024-11-26 08:34:31,828 - INFO - Epoch 17 - Average Training Loss: 0.002388
+2024-11-26 08:36:08,778 - INFO - Validation Loss: 0.000720
+2024-11-26 08:36:10,073 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 08:36:10,073 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_17.pth
+2024-11-26 08:36:10,073 - INFO - 
+Epoch 18/20
+2024-11-26 08:36:22,899 - INFO - Epoch: 18, Batch: 0, Loss: 0.002165
+2024-11-26 08:37:27,496 - INFO - Epoch: 18, Batch: 10, Loss: 0.001640
+2024-11-26 08:38:32,481 - INFO - Epoch: 18, Batch: 20, Loss: 0.004342
+2024-11-26 08:39:37,057 - INFO - Epoch: 18, Batch: 30, Loss: 0.002579
+2024-11-26 08:40:42,038 - INFO - Epoch: 18, Batch: 40, Loss: 0.001747
+2024-11-26 08:41:46,883 - INFO - Epoch: 18, Batch: 50, Loss: 0.001794
+2024-11-26 08:42:51,728 - INFO - Epoch: 18, Batch: 60, Loss: 0.002080
+2024-11-26 08:43:56,942 - INFO - Epoch: 18, Batch: 70, Loss: 0.004695
+2024-11-26 08:45:02,126 - INFO - Epoch: 18, Batch: 80, Loss: 0.001408
+2024-11-26 08:46:07,117 - INFO - Epoch: 18, Batch: 90, Loss: 0.002239
+2024-11-26 08:47:12,763 - INFO - Epoch: 18, Batch: 100, Loss: 0.001288
+2024-11-26 08:48:18,277 - INFO - Epoch: 18, Batch: 110, Loss: 0.001542
+2024-11-26 08:49:04,335 - INFO - Epoch 18 - Average Training Loss: 0.002233
+2024-11-26 08:50:41,691 - INFO - Validation Loss: 0.000781
+2024-11-26 08:50:42,295 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_18.pth
+2024-11-26 08:50:42,295 - INFO - 
+Epoch 19/20
+2024-11-26 08:50:55,587 - INFO - Epoch: 19, Batch: 0, Loss: 0.010604
+2024-11-26 08:52:00,448 - INFO - Epoch: 19, Batch: 10, Loss: 0.004852
+2024-11-26 08:53:05,200 - INFO - Epoch: 19, Batch: 20, Loss: 0.002224
+2024-11-26 08:54:11,708 - INFO - Epoch: 19, Batch: 30, Loss: 0.001110
+2024-11-26 08:55:17,606 - INFO - Epoch: 19, Batch: 40, Loss: 0.001781
+2024-11-26 08:56:24,114 - INFO - Epoch: 19, Batch: 50, Loss: 0.001910
+2024-11-26 08:57:30,680 - INFO - Epoch: 19, Batch: 60, Loss: 0.002102
+2024-11-26 08:59:05,230 - INFO - Epoch: 19, Batch: 70, Loss: 0.001617
+2024-11-26 09:03:42,086 - INFO - Epoch: 19, Batch: 80, Loss: 0.001689
+2024-11-26 09:04:47,322 - INFO - Epoch: 19, Batch: 90, Loss: 0.004918
+2024-11-26 09:05:52,420 - INFO - Epoch: 19, Batch: 100, Loss: 0.001594
+2024-11-26 09:06:56,394 - INFO - Epoch: 19, Batch: 110, Loss: 0.001449
+2024-11-26 09:07:42,434 - INFO - Epoch 19 - Average Training Loss: 0.002053
+2024-11-26 09:09:19,486 - INFO - Validation Loss: 0.000584
+2024-11-26 09:09:20,531 - INFO - Best model saved: models/checkpoints/best_model.pth
+2024-11-26 09:09:20,532 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_19.pth
+2024-11-26 09:09:20,532 - INFO - 
+Epoch 20/20
+2024-11-26 09:09:33,338 - INFO - Epoch: 20, Batch: 0, Loss: 0.001707
+2024-11-26 09:10:38,533 - INFO - Epoch: 20, Batch: 10, Loss: 0.001646
+2024-11-26 09:11:43,367 - INFO - Epoch: 20, Batch: 20, Loss: 0.001518
+2024-11-26 09:12:48,195 - INFO - Epoch: 20, Batch: 30, Loss: 0.001458
+2024-11-26 09:13:55,673 - INFO - Epoch: 20, Batch: 40, Loss: 0.005406
+2024-11-26 09:15:02,374 - INFO - Epoch: 20, Batch: 50, Loss: 0.001572
+2024-11-26 09:16:09,179 - INFO - Epoch: 20, Batch: 60, Loss: 0.001607
+2024-11-26 09:17:16,041 - INFO - Epoch: 20, Batch: 70, Loss: 0.002015
+2024-11-26 09:18:21,547 - INFO - Epoch: 20, Batch: 80, Loss: 0.001144
+2024-11-26 09:19:28,605 - INFO - Epoch: 20, Batch: 90, Loss: 0.001280
+2024-11-26 09:20:34,404 - INFO - Epoch: 20, Batch: 100, Loss: 0.001327
+2024-11-26 09:21:40,865 - INFO - Epoch: 20, Batch: 110, Loss: 0.001684
+2024-11-26 09:22:26,175 - INFO - Epoch 20 - Average Training Loss: 0.002043
+2024-11-26 09:24:03,044 - INFO - Validation Loss: 0.000783
+2024-11-26 09:24:03,608 - INFO - Checkpoint saved: models/checkpoints/checkpoint_epoch_20.pth
+2024-11-26 09:24:03,609 - INFO - Training completed

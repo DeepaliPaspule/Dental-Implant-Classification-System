@@ -1,0 +1,25 @@
+2024-11-25 13:39:42,909 - INFO - Starting training pipeline
+2024-11-25 13:43:54,734 - INFO - Starting training pipeline
+2024-11-25 13:53:54,871 - INFO - Starting training pipeline
+2024-11-25 13:53:54,873 - INFO - Initializing dataset for category: endosteal
+2024-11-25 13:53:54,873 - INFO - Images directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images
+2024-11-25 13:53:54,873 - INFO - Labels directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/labels
+2024-11-25 13:53:54,874 - WARNING - No label found for image: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images/129/41_11.jpg
+2024-11-25 13:53:54,875 - WARNING - No label found for image: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images/129/41_14.jpg
+2024-11-25 13:53:54,875 - WARNING - No label found for image: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images/129/41_19.jpg
+2024-11-25 13:53:54,875 - WARNING - No label found for image: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images/129/41_1.jpg
+2024-11-25 13:53:54,875 - WARNING - No label found for image: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images/129/41_44.jpg
+2024-11-25 13:53:54,875 - WARNING - No label found for image: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/endosteal/images/129/41_41.jpg
+2024-11-25 13:53:54,890 - INFO - Found 276 images for category endosteal
+2024-11-25 13:53:54,894 - INFO - Initializing dataset for category: subperiosteal
+2024-11-25 13:53:54,894 - INFO - Images directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/subperiosteal/images
+2024-11-25 13:53:54,894 - INFO - Labels directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/subperiosteal/labels
+2024-11-25 13:53:54,902 - INFO - Found 74 images for category subperiosteal
+2024-11-25 13:53:54,902 - INFO - Initializing dataset for category: transosteal
+2024-11-25 13:53:54,902 - INFO - Images directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/transosteal/images
+2024-11-25 13:53:54,902 - INFO - Labels directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/transosteal/labels
+2024-11-25 13:53:54,905 - INFO - Found 56 images for category transosteal
+2024-11-25 13:53:54,905 - INFO - Initializing dataset for category: zygomatic
+2024-11-25 13:53:54,905 - INFO - Images directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/zygomatic/images
+2024-11-25 13:53:54,905 - INFO - Labels directory: /Users/deepali/dental_implant_prediction/data/raw/EntireDataset/zygomatic/labels
+2024-11-25 13:53:54,919 - INFO - Found 368 images for category zygomatic

@@ -1,0 +1,6 @@
+2024-11-26 01:15:28,550 - INFO - Starting training pipeline
+2024-11-26 01:15:28,566 - INFO - Found 1801 images for category endosteal
+2024-11-26 01:15:28,569 - INFO - Found 469 images for category subperiosteal
+2024-11-26 01:15:28,575 - INFO - Found 644 images for category transosteal
+2024-11-26 01:15:28,590 - INFO - Found 1702 images for category zygomatic
+2024-11-26 01:15:28,973 - INFO - Loading checkpoint: models/checkpoints/checkpoint_epoch_9.pth
